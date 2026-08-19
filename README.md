@@ -6,7 +6,7 @@ Right now I build a workflow engine that moves medical imaging and clinical data
 
 Outside of that I'm learning Java and Spring Boot, and I keep meaning to build more things in the open — this profile is me starting to fix that.
 
-`C#` `.NET` `Azure` `Docker` `Linux` `SQL Server` `TypeScript`
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,linux,mssql,ts)
 
 ## Featured Projects
 
